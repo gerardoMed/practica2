@@ -1,0 +1,25 @@
+{
+  "Usuarios": [
+    {
+      "id": 1,
+      "nombre": "Jose Gerardo Medina Medina",
+      "telefono": "8711787849",
+      "direccion": "ejido Gilita",
+      "email": "gera_med95@hotmail.com"
+    },
+    {
+      "id": "2",
+      "nombre": "felipowef",
+      "telefono": "94554",
+      "direccion": "dflkvnv5454",
+      "email": "psmvlpmv@h"
+    },
+    {
+      "id": "3",
+      "nombre": "pepe mendez",
+      "telefono": "7854120245",
+      "direccion": "jnjsmsmsmspdkm #2222",
+      "email": "pepem@hotmail.com"
+    }
+  ]
+}
